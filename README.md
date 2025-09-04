@@ -25,12 +25,11 @@ or
 python DOCD_process_mimic4.py --out_path processed/
 ```
 3. Train the model.
-```
-.\run3\DOCD.sh
+```bash
+.\DOCD_mimic3.sh
 or
-.\run\DOCD.sh
+.\DOCD_mimic4.sh
 ```
-[GRAM]:https://github.com/mp2893/gram
 
 Cite
 ----
